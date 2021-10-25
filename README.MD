@@ -27,8 +27,8 @@ Click enable:
 ## Try to view cluster
 
 ## Go to Storage and Click Console
-###Enter first command
+### Enter first command
 `ns my-distributed-map`
-###Enter second command
+### Enter second command
 `m.get 1` -> `John`
 ![img_2.png](img_2.png)
